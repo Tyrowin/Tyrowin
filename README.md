@@ -1,13 +1,12 @@
 # 👾 Malte M
+
 **`Student / New developer`**
 
 **Currently intern @ Stena Fastigheter**
 
-
 ### About me 📝
-I'm a student and new developer from Sweden. I mostly working with Python and a little C++. I enjoy learning new things and I'm always looking for new projects to work on. I'm currently learning web development with HTML, CSS and JavaScript. 
 
-
+I'm a student and new developer from Sweden. I mostly working with Python and a little C++. I enjoy learning new things and I'm always looking for new projects to work on. I'm currently learning web development with HTML, CSS and JavaScript.
 
 ### 🧰 Languages and Tools
 
