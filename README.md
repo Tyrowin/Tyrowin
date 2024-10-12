@@ -2,7 +2,7 @@
 
 **`Junior Developer`**
 
-**Looking for new opportunites**
+**Currently ooking for new opportunites!**
 
 ### About me 📝
 
