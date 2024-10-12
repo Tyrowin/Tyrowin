@@ -1,8 +1,8 @@
-# 👾 Malte M
+# 👾 Malte Mindedal
 
-**`Student / New developer`**
+**`Junior Developer`**
 
-**Currently intern @ Stena Fastigheter**
+**Looking for new opportunites**
 
 ### About me 📝
 
